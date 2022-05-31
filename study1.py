@@ -21,6 +21,7 @@
 # print(X)
 
 from itertools import combinations
+from re import X
 
 # program that solves and shows the summation of 64 + 32.
 #x = 64
@@ -28,19 +29,22 @@ from itertools import combinations
 #sum = x + y
 # print(sum)
 
-x = "Nancy"
-print(x)
+#x = "Nancy"
+# print(x)
 
 # Combine numbers and text
-s = "My lucky number is %d, what is yours?" % 7
-print(s)
+#s = "My lucky number is %d, what is yours?" % 7
+# print(s)
 
 # alternative method of combining numbers and text
-s = "My lucky number is " + str(7) + ", what is yours?"
-print(s)
+#s = "My lucky number is " + str(7) + ", what is yours?"
+# print(s)
 
 # print character by index
-print(x[0])
+# print(x[0])
 
 # print piece of string
-print(x[0:3])
+# print(x[0:3])
+
+#x = "my favourite actor is idk"
+# print(x)
