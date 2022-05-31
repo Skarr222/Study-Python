@@ -46,5 +46,21 @@ from re import X
 # print piece of string
 # print(x[0:3])
 
-#x = "my favourite actor is idk"
+# x = "my favourite actor is idk"
 # print(x)
+
+# replace method
+# s = "Hello World"
+# s = s.replace("World", "Universe")
+# print(s)
+
+# define strings
+firstname = "Bugs"
+lastname = "Bunny"
+
+# define our sequence
+sequence = (firstname, lastname)
+
+# join into new string
+name = " ".join(sequence)
+print(name)
