@@ -55,12 +55,12 @@ from re import X
 # print(s)
 
 # define strings
-firstname = "Bugs"
-lastname = "Bunny"
+#firstname = "Bugs"
+#lastname = "Bunny"
 
 # define our sequence
-sequence = (firstname, lastname)
+#sequence = (firstname, lastname)
 
 # join into new string
-name = " ".join(sequence)
-print(name)
+#name = " ".join(sequence)
+# print(name)
